@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Felix
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Wordpress
-- 📫 Send me an email ->Jfelixzavala10@gmail.com
+- 👀 I’m interested in Email and Web development
+
 
 <!---
 JFELIXZAVALA/JFELIXZAVALA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
